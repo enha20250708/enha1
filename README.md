@@ -10,4 +10,4 @@
 
 在这些平台上，用户可以根据影片类别、演员等条件，快速筛选出自己喜爱的内容。每部影片都会详细标注播放时长、主演阵容及画质信息，确保用户得到最好的观看体验。平台支持高清播放，并根据网络状况智能优化画质，确保顺畅播放。
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/enha20250708/enha1 ）</span>
